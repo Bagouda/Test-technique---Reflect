@@ -1,0 +1,48 @@
+2026-01-04 16:30:16 INFO: Initialisation
+2026-01-04 16:30:16 INFO: fetch /api/v3/users: 0->100 
+2026-01-04 16:30:16 INFO: fetch /directory/api/4.0/work-contracts: page: 1 elements 100 -> 200
+2026-01-04 16:30:16 INFO: fetch /api/v3/departments: 0->100 
+2026-01-04 16:30:17 INFO: Tous les elements de /api/v3/departments ont été chargé
+2026-01-04 16:30:17 INFO: fetch /api/v3/users: 100->100 
+2026-01-04 16:30:17 INFO: Tous les elements de /api/v3/users ont été chargé
+2026-01-04 16:30:17 INFO: fetch /directory/api/4.0/work-contracts: page: 2 elements 200 -> 300
+2026-01-04 16:30:17 INFO: Tous les elements de /directory/api/4.0/work-contracts ont été chargé
+2026-01-04 16:31:32 INFO: Initialisation
+2026-01-04 16:32:00 INFO: Initialisation
+2026-01-04 16:32:00 INFO: fetch /api/v3/users: 0->100 
+2026-01-04 16:32:00 INFO: fetch /api/v3/users: 100->100 
+2026-01-04 16:32:00 INFO: Tous les elements de /api/v3/users ont été chargé
+2026-01-04 16:32:00 INFO: fetch /directory/api/4.0/work-contracts: page: 1 elements 100 -> 200
+2026-01-04 16:32:00 INFO: fetch /directory/api/4.0/work-contracts: page: 2 elements 200 -> 300
+2026-01-04 16:32:00 INFO: Tous les elements de /directory/api/4.0/work-contracts ont été chargé
+2026-01-04 16:32:00 INFO: fetch /api/v3/departments: 0->100 
+2026-01-04 16:32:00 INFO: Tous les elements de /api/v3/departments ont été chargé
+2026-01-04 16:32:56 INFO: Initialisation
+2026-01-04 16:32:56 INFO: fetch /api/v3/users: 0->100 
+2026-01-04 16:32:56 INFO: fetch /directory/api/4.0/work-contracts: page: 1 elements 100 -> 200
+2026-01-04 16:32:56 INFO: fetch /api/v3/departments: 0->100 
+2026-01-04 16:32:56 INFO: fetch /api/v3/users: 100->100 
+2026-01-04 16:32:56 INFO: Tous les elements de /api/v3/users ont été chargé
+2026-01-04 16:32:56 INFO: Tous les elements de /api/v3/departments ont été chargé
+2026-01-04 16:32:56 INFO: fetch /directory/api/4.0/work-contracts: page: 2 elements 200 -> 300
+2026-01-04 16:32:56 INFO: Tous les elements de /directory/api/4.0/work-contracts ont été chargé
+2026-01-04 16:34:14 INFO: Initialisation
+2026-01-04 16:34:14 INFO: fetch /api/v3/users: 0->100 
+2026-01-04 16:34:15 INFO: fetch /api/v3/users: 100->100 
+2026-01-04 16:34:15 INFO: Tous les elements de /api/v3/users ont ete charge
+2026-01-04 16:34:15 INFO: fetch /directory/api/4.0/work-contracts: page: 1 elements 100 -> 200
+2026-01-04 16:34:15 INFO: fetch /directory/api/4.0/work-contracts: page: 2 elements 200 -> 300
+2026-01-04 16:34:15 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-04 16:34:15 INFO: fetch /api/v3/departments: 0->100 
+2026-01-04 16:34:15 INFO: Tous les elements de /api/v3/departments ont ete charge
+2026-01-04 16:34:50 INFO: Initialisation
+2026-01-04 16:34:50 INFO: fetch /api/v3/users: 0->100 
+2026-01-04 16:34:51 INFO: fetch /api/v3/users: 100->100 
+2026-01-04 16:34:51 INFO: Tous les elements de /api/v3/users ont ete charge
+2026-01-04 16:34:57 INFO: Initialisation
+2026-01-04 16:34:57 INFO: fetch /directory/api/4.0/work-contracts: page: 1 elements 100 -> 200
+2026-01-04 16:34:57 INFO: fetch /directory/api/4.0/work-contracts: page: 2 elements 200 -> 300
+2026-01-04 16:34:57 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-04 16:35:02 INFO: Initialisation
+2026-01-04 16:35:02 INFO: fetch /api/v3/departments: 0->100 
+2026-01-04 16:35:02 INFO: Tous les elements de /api/v3/departments ont ete charge
