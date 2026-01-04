@@ -30,6 +30,8 @@ if __name__ == "__main__":
         functions[sys.argv[1]]()
     else:
         print("\nInvalid command, enter one of the following prompt to fetch data:\n" \
-        "\npython Lucca/main.py users -> fetch users data" \
-        "\npython Lucca/main.py contracts -> fetch contract data" \
-        "\npython Lucca/main.py departments -> fetch departments data")
+        "\npython Lucca/Cli.py all -> recuperation de toutes les données" \
+        "\npython Lucca/Cli.py all_sequential -> recuperation de toutes les données de maniere sequentielle" \
+        "\npython Lucca/Cli.py users -> recuperation des données salariés" \
+        "\npython Lucca/Cli.py contracts -> recuperation des données de contrats" \
+        "\npython Lucca/Cli.py departments -> recuperation des données de departements")
