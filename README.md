@@ -4,7 +4,7 @@ Voici ma solution à l'exercice proposé
   
 ## Étapes de configuration  
   
-La solution necesnécessitesite un fichier .env à la racine avec les paramètres suivants:  
+La solution nécessite un fichier .env à la racine du projet avec les paramètres suivants:  
   
 API_KEY={clé de l'API}  
 BASE_URL={url de l'API}  
