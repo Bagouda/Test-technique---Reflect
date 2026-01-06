@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 import sys
 import logging
-from Lucca import Lucca
+from Lucca2 import Lucca
 
 if __name__ == "__main__":
     # init logging
@@ -18,11 +18,11 @@ if __name__ == "__main__":
     # init lucca
     lucca = Lucca(base_url, api_key)
     functions = {
-        'all_sequential': lucca.fetch_store_all, 
-        'all': lucca.fetch_store_all_parallel, 
-        'users': lucca.fetch_store_users, 
-        'contracts': lucca.fetch_store_contracts, 
-        'departments' : lucca.fetch_store_departments,
+        'all_sequential': lucca.export_all, 
+        'all': lucca.export_all_parallel, 
+        'users': lucca.export_users, 
+        'contracts': lucca.export_contracts, 
+        'departments' : lucca.export_departments,
 
     }
 
