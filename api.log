@@ -1,1 +1,103 @@
 
+2026-01-06 16:54:27 INFO: Initialisation
+2026-01-06 16:55:02 INFO: Initialisation
+2026-01-06 16:55:02 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:55:02 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:55:02 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 16:56:03 INFO: Initialisation
+2026-01-06 16:56:03 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:56:03 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:56:03 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 16:56:24 INFO: Initialisation
+2026-01-06 16:56:24 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:56:24 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:56:24 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 16:56:36 INFO: Initialisation
+2026-01-06 16:56:36 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:56:36 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:56:36 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 16:57:27 INFO: Initialisation
+2026-01-06 16:57:27 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:57:27 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:57:27 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 16:59:23 INFO: Initialisation
+2026-01-06 16:59:23 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:59:23 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:59:23 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 16:59:51 INFO: Initialisation
+2026-01-06 16:59:51 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 16:59:51 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 16:59:51 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:00:17 INFO: Initialisation
+2026-01-06 17:00:17 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:00:17 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:00:17 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:00:31 INFO: Initialisation
+2026-01-06 17:00:31 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:00:31 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:00:31 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:00:44 INFO: Initialisation
+2026-01-06 17:00:44 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:00:44 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:00:44 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:03:57 INFO: Initialisation
+2026-01-06 17:03:57 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:03:57 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:03:57 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:04:51 INFO: Initialisation
+2026-01-06 17:04:51 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:05:22 INFO: Initialisation
+2026-01-06 17:05:22 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:06:08 INFO: Initialisation
+2026-01-06 17:06:08 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:06:08 INFO: fetch /api/v3/users: 100->100 
+2026-01-06 17:06:08 INFO: Tous les elements de /api/v3/users ont ete charge
+2026-01-06 17:06:08 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:06:08 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:06:09 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-06 17:06:09 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:06:09 INFO: Tous les elements de /api/v3/departments ont ete charge
+2026-01-06 17:06:17 INFO: Initialisation
+2026-01-06 17:06:17 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:06:17 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:06:17 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:06:17 INFO: Tous les elements de /api/v3/departments ont ete charge
+2026-01-06 17:06:18 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:06:18 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-06 17:06:18 INFO: fetch /api/v3/users: 100->100 
+2026-01-06 17:06:18 INFO: Tous les elements de /api/v3/users ont ete charge
+2026-01-06 17:18:27 INFO: Initialisation
+2026-01-06 17:18:27 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:18:27 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:18:27 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:18:27 ERROR: Erreur lors de la requete /api/v3/users :
+ 400 Client Error: Bad Request for url: https://reflect2-sandbox.ilucca-demo.net/api/v3/users?formerEmployees=true&fields=extendedDataid%2CfirstName%2ClastName%2Cmail%2CjobTitle%2Cgender%2ClegalEntityId%2CdepartmentId%2CmanagerId%2CseniorityDate%2CdirectLine&paging=0%2C100
+2026-01-06 17:18:27 INFO: Tous les elements de /api/v3/departments ont ete charge
+2026-01-06 17:18:27 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:18:27 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-06 17:18:37 INFO: Initialisation
+2026-01-06 17:18:37 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:18:37 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:18:37 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:18:37 ERROR: Erreur lors de la requete /api/v3/users :
+ 400 Client Error: Bad Request for url: https://reflect2-sandbox.ilucca-demo.net/api/v3/users?formerEmployees=true&fields=extendedDataid%2CfirstName%2ClastName%2Cmail%2CjobTitle%2Cgender%2ClegalEntityId%2CdepartmentId%2CmanagerId%2CseniorityDate%2CdirectLine&paging=0%2C100
+2026-01-06 17:18:37 INFO: Tous les elements de /api/v3/departments ont ete charge
+2026-01-06 17:18:37 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:18:37 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-06 17:18:54 INFO: Initialisation
+2026-01-06 17:18:54 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:18:54 ERROR: Erreur lors de la requete /api/v3/users :
+ 400 Client Error: Bad Request for url: https://reflect2-sandbox.ilucca-demo.net/api/v3/users?formerEmployees=true&fields=extendedDataid%2CfirstName%2ClastName%2Cmail%2CjobTitle%2Cgender%2ClegalEntityId%2CdepartmentId%2CmanagerId%2CseniorityDate%2CdirectLine&paging=0%2C100
+2026-01-06 17:19:00 INFO: Initialisation
+2026-01-06 17:19:00 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:19:01 INFO: fetch /api/v3/users: 100->100 
+2026-01-06 17:19:01 INFO: Tous les elements de /api/v3/users ont ete charge
+2026-01-06 17:19:07 INFO: Initialisation
+2026-01-06 17:19:07 INFO: fetch /api/v3/users: 0->100 
+2026-01-06 17:19:07 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:19:07 INFO: fetch /api/v3/departments: 0->100 
+2026-01-06 17:19:07 INFO: fetch /directory/api/4.0/work-contracts: 0->100 
+2026-01-06 17:19:07 INFO: Tous les elements de /api/v3/departments ont ete charge
+2026-01-06 17:19:08 INFO: Tous les elements de /directory/api/4.0/work-contracts ont ete charge
+2026-01-06 17:19:08 INFO: fetch /api/v3/users: 100->100 
+2026-01-06 17:19:08 INFO: Tous les elements de /api/v3/users ont ete charge

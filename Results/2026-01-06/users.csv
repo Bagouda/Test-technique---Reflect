@@ -1,0 +1,116 @@
+extendedData,id,firstName,lastName,mail,jobTitle,gender,legalEntityId,departmentId,managerId,seniorityDate,directLine
+,94,Jean,Aiglemont,jaiglemont@example.org,,Undefined,,,,,
+,6,Chloe,Alibert,calibert@example.org,Technicienne,Female,,,,,01 22 49 21 00
+,7,Marie-Françoise,Archer,marcher@example.org,Technicienne,Female,,,,,01 22 49 23 00
+,95,Denis,Arthez,darthez@example.org,,Undefined,,,,,
+,96,Natalie,Augsberger,naugsberger@example.org,,Undefined,,,,,
+,97,Milo,Baasch,mbaasch@example.org,,Undefined,,,,,
+,70,Sara,Barbero,sbarbero@example.es,,Female,,,,,
+,98,Antoine,Barbet,abarbet@example.org,,Undefined,,,,,
+,99,Hélène,Barjeton,hbarjeton@example.org,,Undefined,,,,,
+,8,Maurice,Bart,mbart@example.org,Comptable,Male,,,,,01 22 49 22 00
+,89,Julie,Bateau,jbateau@example.org,,Undefined,,,,,
+,9,Antoine,Beaulinette,abeaulinette@example.org,Directeur Administratif et Financier,Male,,,,,01 22 49 22 00
+,10,Peter,Benton,pbenton@example.org,Toto,Male,,,,,+44 7 987 654 321
+,11,Jessica,Berry,jberry@example.org,Business Developer,Female,,,,,+44 7 789 654 456
+,88,Juan,Bianco,test@example.es,,Male,,,,,
+,12,Maurice,Bouchard,mbouchard@example.org,Assistant de Direction,Male,,,,,01 22 49 23 00
+,13,Ines,Bouquineau,ibouquineau@example.org,Secrétaire,Female,,,,,01 22 49 21 00
+,46,Augustin,Bouvet,abouvet@example.org,Ingénieur R&D,Undefined,,,,,01 22 49 21 00
+,14,Peter,Bowen,pbowen@example.org,Sales,Male,,,,,+44 7 987 123 765
+,15,Marie,Bragoulet,mbragoulet@example.org,Responsable R&D,Female,,,,2024-07-02T00:00:00,01 22 49 23 00
+,16,Valentin,Bresnier,vbresnier@example.org,Ingénieur R&D,Male,,,,2013-04-17T00:00:00,01 22 49 23 00
+,17,Chloe,Brown,cbrown@example.org,Service Desk Technician,Female,,,,,+44 7 098 654 176
+,71,Lucia,Cabrero,lcabrero@example.es,,Female,,,,,
+,47,Pierre,Camus,pcamus@example.org,,Undefined,,,,2017-07-19T00:00:00,
+,100,Nathalie,Camusot,ncamusot@example.org,,Undefined,,,,,
+,83,Matías,Cano,mcano@example.es,,Male,,,,,
+,72,Martina,Cantor,mcantor@lucca.es,,Undefined,,,,,
+,18,John,Carter,jcarter@example.org,Business Developer,Male,,,,,+44 7 977 914 489
+,73,Lucas,Cavallero,lcavallero@example.es,,Male,,,,,
+,19,Brigitte,Clisson,bclisson@example.org,Responsable UX,Female,,,,,01 22 49 23 00
+,20,Michel,Constant,mconstant@example.org,Directeur Commercial,Male,,,,,01 22 49 23 00
+,74,Hugo,Corredor,hcorredor@example.es,,Male,,,,,
+,84,Mateo,Cortes,mcortes@example.es,,Male,,,,,
+,21,Adam,Cox,acox@example.org,Business Developer,Male,,,,,+44 7 990 124 021
+,22,Jacques,Cretault,jcretault@example.org,Technicien,Male,,,,,01 22 49 23 00
+,102,Antonin,Cruchot,acruchot@example.org,,Undefined,,,,,
+,62,Isabel,Cruz,icruz@example.es,,Female,,,,,
+,23,Katie,Curtis,kcurtis@example.org,Technician,Female,,,,,+44 7 987 654 562
+,118,Edouard,Debriche,edebriche@example.org,Technicien,Undefined,,,,,
+,119,Eduardo,Debrillo,ebadgeuse@example.org,Operario,Undefined,,,,,
+,60,Juan,Delgado,jdelgado@example.es,,Male,,,,,
+,85,Nicolás,Delgado,ndelgado@example.es,,Male,,,,,
+,103,Nicolas,Desmarets,ndesmarets@example.org,,Undefined,,,,,
+,25,Alexander,Doherty,adoherty@example.org,Sales Director - UK,Male,,,,,+44 7 817 924 123
+,63,Catalina,Dominiguez,cdominiguez@example.es,,Female,,,,,
+,26,Rebecca,Douglas,rdouglas@example.org,Head of Help Desk,Female,,,,,+44 7 987 690 182
+,27,Jean,Dupont,jdupont@example.org,Assistant administratif,Male,,,,,01 22 49 22 00
+,69,Emiliano,Elcaldo,ealcaldo@example.es,,Male,,,,,
+,28,Cécile,Epineau,cepineau@example.org,Ingénieure R&D,Female,,,,,01 22 49 22 00
+,29,Denis,Estienne,destienne@example.org,Business Developer,Male,,,,,01 22 49 23 00
+,30,Lilly,Evans,levans@example.org,Business Developer,Female,,,,,+44 7 987 104 109
+,92,Lilly,Evans,levans@lucca.fr,,Undefined,,,,,
+,120,Clément,Federer,persoc.federer@example.fr,Customer Care Specialist,Undefined,,,,,
+,49,Carmen,Fernández,cfernandez@example.es,Asistente de marketing,Female,,,,,
+,101,Mateo,Firmiani,mcortes@example.org,,Undefined,,,,,
+,45,Noël,Flantier,nflantier@example.org,Ingénieur R&D,Undefined,,,,,01 22 49 21 00
+,31,Nicolas,Fromiau,nfromiau@example.org,Business Developer,Male,,,,,01 22 49 22 00
+,91,Nicolas,Fromiau,nfromiau@example.org,,Undefined,,,,,
+,48,Maria,García,mgarcia@example.es,,Female,,,,,
+,93,Maria,García,mgarcia@lucca.fr,,Undefined,,,,,
+,86,Diego,Garza,dgarza@lucca.es,,Undefined,,,,,
+,32,Florence,Geste,fgeste@example.ch,Business Developer,Female,,,,,+4162871945
+,37,Christiane,Girard,cimbert@example.org,Technicienne,Female,,,,,01 22 49 23 00
+,90,Hélène,Girard,hgirard@example.org,,Undefined,,,,,
+,57,Antonio,Gómez,agomez@example.es,Director general,Male,,,,,
+,50,José,González,jgonzalez@example.es,,Male,,,,,
+,33,Antonin,Gouache,agouache@example.org,Business Developer,Male,,,,,01 22 49 24 00
+,34,Agathe,Gourdon,agourdon@example.org,Responsable Qualité,Female,,,,,01 22 49 23 00
+,104,Isabel,Graf,igraf@example.org,,Undefined,,,,,
+,105,Ava,Hartl,ahartl@example.org,,Undefined,,,,,
+,35,Daniel,Hernandez,dhernandez@example.org,DRH,Male,,,,1995-03-02T00:00:00,01 22 49 23 00
+,64,Renata,Hernandez,rhernandez@example.es,,Female,,,,,
+,77,Camilla,Herrera,cherrera@example.es,,Female,,,,,
+,36,Celine,Heulin,cheulin@example.org,Agent de production,Female,,,,,01 22 49 23 00
+,75,Martín,Hidalgo,mhidalgo@example.es,,Male,,,,,
+,106,Tim,Hössler,thossler@example.org,,Undefined,,,,,
+,61,Ramon,Iglesias,riglesias@example.es,Comercial,Male,,,,,
+,38,Alain,Jacotot,no-reply@lucca.fr,Technicien,Male,,,,,01 22 49 23 00
+,107,Andrej,Krist,akrist@example.org,,Undefined,,,,,
+,108,Gabriel,Leistner,gleistner@example.org,,Undefined,,,,,
+,52,Paula,López,plopez@example.es,,Female,,,,,
+,39,Anaïs,Marceau,amarceau@example.org,,Female,,,,2016-06-22T00:00:00,
+,76,Daniel,Marin,dmarin@example.es,,Male,,,,,
+,78,Valentina,Marques,vmarques@example.es,,Female,,,,,
+,56,Dolores,Martín,dmartin@example.es,,Female,,,,,
+,53,Pablo,Martínez,pmartinez@example.es,Especialista Marketing Digital,Male,,,,2015-01-01T00:00:00,
+,109,Nicolas,Merat,nmerat@example.org,General Manager,Male,,,,,
+,79,Valeria,Molinero,vmolinero@example.es,,Female,,,,,
+,87,Samuel,Orejon,sorejon@example.es,,Male,,,,,
+,40,Gregory,Pascal,pgregory@example.org,,Male,,,,2016-05-19T00:00:00,
+,55,Sofia,Pérez,sperez@example.es,,Female,,,,,
+,41,Olivier,Pichou,opichou@example.org,,Male,,,,2016-04-14T00:00:00,
+,110,Thomas,Pilc,tpilc@example.org,,Undefined,,,,,
+,111,Julie,Poiret,jpoiret@example.org,,Undefined,,,,,
+,112,Maurice,Popinot,mpopinot@example.org,Ingénieur R&D,Undefined,,,,,
+,65,Antonella,Ramirez,aramirez@example.es,,Female,,,,,
+,42,Jérôme,Recoquillon,jrecoquillon@example.org,,Male,,,,,01 22 49 21 00
+,113,Michel,Restaud,mrestaud@example.org,,Undefined,,,,,
+,43,Jules,Richard,jrichard@example.org,Responsable SAV,Male,,,,,01 22 49 21 00
+,51,Manuel,Rodríguez,mrodriguez@lucca.es,,Undefined,,,,,
+,80,Mariana,Romero,mromero@example.es,,Female,,,,,
+,24,Pascal,Roux,pdhorne@example.org,Responsable des opérations,Male,,,,,01 22 49 22 00
+,58,Francisco,Ruiz,fruiz@example.es,,Male,,,,,
+,54,Alejandro,Sánchez,asanchez@example.es,,Male,,,,,
+,114,Sara,Schmucke,sschmucke@example.org,,Undefined,,,,,
+,115,Philipp,Schurz,pschurz@example.org,,Undefined,,,,,
+,59,Magdalena,Serrano,mserrano@example.es,,Female,,,,,
+,66,Gabriela,Suarez,gsuarez@example.es,,Female,,,,,
+,81,Santiago,Torrero,storrero@example.es,,Male,,,,,
+,116,Daniel,Tullia,dtullia@example.org,,Undefined,,,,,
+,67,Victoria,Velazquez,vvelazquez@example.es,,Female,,,,,
+,68,Joaquín,Velez,jvelez@example.es,,Male,,,,,
+,44,Alexandre,Vigneau,avigneau@example.org,,Male,,,,2016-05-31T00:00:00,
+,117,Florence,Zambinella,fzambinella@example.org,,Undefined,,,,,
+,82,Sebastián,Zapatero,szapatero@example.es,,Male,,,,,

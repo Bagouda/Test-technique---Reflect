@@ -74,7 +74,8 @@ class Lucca:
             limit = params['limit']
         elif('paging' in params.keys()):
             limit = int(params['paging'].split(',')[1])
-        
+
+
         offset = 0
 
         while True:
@@ -89,8 +90,10 @@ class Lucca:
             # On deballe le json selon le chemin e argument
             response = json_path_extraction(load, json_path)
 
+
             yield response
 
+            
             if limit == 0 or len(response) < limit:
                 logging.info(f"Tous les elements de {end_point} ont ete charge")
                 break
@@ -98,9 +101,11 @@ class Lucca:
             # On incremente suivant la methode d'extraction
             if('page' in params.keys()):
                 params['page'] = int(params['page']) + 1
+                print("page: ", params['page'])
             else:
                 offset = int(params['paging'].split(",")[0]) + limit
                 params['paging'] = f"{offset},{limit}"
+                print("paging: ", params['paging'])
             
 
     def write_csv(self, data, csv_name="data", columns=None, reset=True):
@@ -118,13 +123,13 @@ class Lucca:
 
         return csv_path
     
-    def fetch_store(self,end_point,params= {}, json_path=('data', 'items'),  csv_name="data.csv" ):
+    def fetch_store(self, end_point, params= {}, json_path=('data', 'items'),  csv_name="data.csv" ):
 
         for i, page in enumerate(self.paginate_endpoint(end_point, base_params=params, json_path= json_path)):
 
             path = self.write_csv(
                         page, 
-                        columns=params['fields'] if 'fields' in params else None, 
+                        columns=params['fields'].split(",") if 'fields' in params.keys() else None, 
                         csv_name=csv_name, 
                         reset=(i == 0)
                     )
@@ -142,15 +147,15 @@ class Lucca:
                   "legalEntityId", "departmentId", "managerId", "seniorityDate", "directLine"]
         params = {
             'formerEmployees': 'true',
-            'fields': ",".join(fields),
+            'fields': "extendedData," + ",".join(fields),
             'paging' : "0,100" # offset,limit
         }
 
-        path = self.fetch_store(end_point,params, csv_name="data.csv" )
+        path = self.fetch_store(end_point,params, csv_name="users.csv" )
         print(f"CSV genere a: {path} ")
 
     # get departments data
-    def export_departements(self):
+    def export_departments(self):
 
         #end point api
         end_point = "/api/v3/departments"
@@ -189,7 +194,7 @@ class Lucca:
         tasks = [
             self.export_users, 
             self.export_contracts,
-            self.export_departements
+            self.export_departments
         ]
         
         [task() for task in tasks]
@@ -199,7 +204,7 @@ class Lucca:
         tasks = [
             self.export_users, 
             self.export_contracts,
-            self.export_departements
+            self.export_departments
         ]
         
         with ThreadPoolExecutor(max_workers=min(len(tasks), 10)) as ex:
